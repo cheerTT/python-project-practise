@@ -1,0 +1,4 @@
+"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" E:\codes\clion\clion_base\numcpp01
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/codes/clion/clion_base/numcpp01/cmake-build-debug

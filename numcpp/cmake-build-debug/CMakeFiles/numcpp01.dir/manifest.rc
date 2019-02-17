@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/numcpp01.dir/embed.manifest"
