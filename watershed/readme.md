@@ -22,9 +22,5 @@
 
 （11）对每个分割区域着色输出结果；
 
-原图为：
-
-![1550387581921](img\1550387581921.png)
-
-结果图为：
-![1550387601131](img\1550387601131.png)
+![原图](https://github.com/cheerTT/python-project-practise/raw/master/watershed/img/1550387581921.png)
+![分割图](https://github.com/cheerTT/python-project-practise/raw/master/watershed/img/1550387601131.png)
