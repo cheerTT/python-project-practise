@@ -8,8 +8,6 @@
 
 namespace nc
 {
-    //================================Constants====================================
-    /// Holds usefull constants
     namespace constants
     {
         constexpr double        c = 3.0e8; // 光速

@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: D:/coding/vs2017/Community/VC/Tools/MSVC/14.13.26128/bin/Hostx86/x86/cl.exe 
@@ -45,84 +45,84 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_6819a\fast"
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_6819a.dir\build.make /nologo -L                  CMakeFiles\cmTC_6819a.dir\build
-Building C object CMakeFiles/cmTC_6819a.dir/testCCompiler.c.obj
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmA3D2.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_037e2\fast"
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_037e2.dir\build.make /nologo -L                  CMakeFiles\cmTC_037e2.dir\build
+Building C object CMakeFiles/cmTC_037e2.dir/testCCompiler.c.obj
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmBAAA.tmp
 testCCompiler.c
-Linking C executable cmTC_6819a.exe
-	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_6819a.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_6819a.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmA440.tmp
+Linking C executable cmTC_037e2.exe
+	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_037e2.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_037e2.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmBC32.tmp
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_3e938\fast"
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_3e938.dir\build.make /nologo -L                  CMakeFiles\cmTC_3e938.dir\build
-Building C object CMakeFiles/cmTC_3e938.dir/CMakeCCompilerABI.c.obj
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmA6DF.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_9c0f2\fast"
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_9c0f2.dir\build.make /nologo -L                  CMakeFiles\cmTC_9c0f2.dir\build
+Building C object CMakeFiles/cmTC_9c0f2.dir/CMakeCCompilerABI.c.obj
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmBEE0.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_3e938.exe
-	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3e938.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3e938.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmA74D.tmp
+Linking C executable cmTC_9c0f2.exe
+	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9c0f2.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9c0f2.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmBF5E.tmp
 
 
 
 
 Detecting C [] compiler features compiled with the following output:
-Change Dir: E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_adcf3\fast"
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_adcf3.dir\build.make /nologo -L                  CMakeFiles\cmTC_adcf3.dir\build
-Building C object CMakeFiles/cmTC_adcf3.dir/feature_tests.c.obj
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmAA0D.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_30682\fast"
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_30682.dir\build.make /nologo -L                  CMakeFiles\cmTC_30682.dir\build
+Building C object CMakeFiles/cmTC_30682.dir/feature_tests.c.obj
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmC1EE.tmp
 feature_tests.c
-Linking C executable cmTC_adcf3.exe
-	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_adcf3.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_adcf3.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmAA7A.tmp
+Linking C executable cmTC_30682.exe
+	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_30682.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_30682.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmC25C.tmp
 
 
     Feature record: C_FEATURE:1c_function_prototypes
     Feature record: C_FEATURE:1c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_8991c\fast"
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_8991c.dir\build.make /nologo -L                  CMakeFiles\cmTC_8991c.dir\build
-Building CXX object CMakeFiles/cmTC_8991c.dir/testCXXCompiler.cxx.obj
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmAD39.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_75716\fast"
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_75716.dir\build.make /nologo -L                  CMakeFiles\cmTC_75716.dir\build
+Building CXX object CMakeFiles/cmTC_75716.dir/testCXXCompiler.cxx.obj
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmC4EB.tmp
 testCXXCompiler.cxx
-Linking CXX executable cmTC_8991c.exe
-	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8991c.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_8991c.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmADA7.tmp
+Linking CXX executable cmTC_75716.exe
+	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_75716.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_75716.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmC55A.tmp
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_aa625\fast"
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_aa625.dir\build.make /nologo -L                  CMakeFiles\cmTC_aa625.dir\build
-Building CXX object CMakeFiles/cmTC_aa625.dir/CMakeCXXCompilerABI.cpp.obj
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmB084.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_c4a04\fast"
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_c4a04.dir\build.make /nologo -L                  CMakeFiles\cmTC_c4a04.dir\build
+Building CXX object CMakeFiles/cmTC_c4a04.dir/CMakeCXXCompilerABI.cpp.obj
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmC7AA.tmp
 CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_aa625.exe
-	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_aa625.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_aa625.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmB0F3.tmp
+Linking CXX executable cmTC_c4a04.exe
+	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_c4a04.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_c4a04.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmC819.tmp
 
 
 
 
 Detecting CXX [] compiler features compiled with the following output:
-Change Dir: E:/codes/clion/clion_base/numcpp01/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: E:/codes/clion/clion_base/numcpp/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_f0142\fast"
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_f0142.dir\build.make /nologo -L                  CMakeFiles\cmTC_f0142.dir\build
-Building CXX object CMakeFiles/cmTC_f0142.dir/feature_tests.cxx.obj
-	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmB3F0.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_3f12b\fast"
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\nmake.exe -f CMakeFiles\cmTC_3f12b.dir\build.make /nologo -L                  CMakeFiles\cmTC_3f12b.dir\build
+Building CXX object CMakeFiles/cmTC_3f12b.dir/feature_tests.cxx.obj
+	D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe @C:\Users\19132\AppData\Local\Temp\nmCAB8.tmp
 feature_tests.cxx
-Linking CXX executable cmTC_f0142.exe
-	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f0142.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f0142.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmB46E.tmp
+Linking CXX executable cmTC_3f12b.exe
+	"D:\coding\clion\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3f12b.dir --manifests  -- D:\coding\vs2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3f12b.dir\objects1.rsp @C:\Users\19132\AppData\Local\Temp\nmCB65.tmp
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers

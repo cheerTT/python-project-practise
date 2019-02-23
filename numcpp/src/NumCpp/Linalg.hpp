@@ -15,30 +15,15 @@
 
 namespace nc
 {
-    //================================Rotations Namespace=============================
-    /// Module for basic linear algebra operations
     namespace linalg
     {
-        // forward declare all functions
+
         template<typename dtype>
         dtype det(const NdArray<dtype>& inArray);
 
         template<typename dtype>
         NdArray<double> inv(const NdArray<dtype>& inArray);
 
-
-        //============================================================================
-        // Method Description:
-        ///						matrix determinant.
-        ///						NOTE: can get verrrrry slow for large matrices (order > 10)
-        ///
-        ///                     SciPy Reference: https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.det.html#scipy.linalg.det
-        ///
-        /// @param
-        ///				inArray
-        /// @return
-        ///				matrix determinant
-        ///
         template<typename dtype>
         dtype det(const NdArray<dtype>& inArray)
         {
@@ -98,17 +83,6 @@ namespace nc
             }
         }
 
-        //============================================================================
-        // Method Description:
-        ///						matrix inverse
-        ///
-        ///                     SciPy Reference: https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.inv.html#scipy.linalg.inv
-        ///
-        /// @param
-        ///				inArray
-        /// @return
-        ///				NdArray
-        ///
         template<typename dtype>
         NdArray<double> inv(const NdArray<dtype>& inArray)
         {

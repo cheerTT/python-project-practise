@@ -1,7 +1,7 @@
 #pragma once
 
 #ifndef _CRT_SECURE_NO_WARNINGS
-#define _CRT_SECURE_NO_WARNINGS // for fopen with Visual Studio
+#define _CRT_SECURE_NO_WARNINGS
 #endif
 
 #include"NumCpp/Constants.hpp"
